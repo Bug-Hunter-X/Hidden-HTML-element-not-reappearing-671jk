@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked HTML bug.  An element is hidden using JavaScript, but there's no mechanism to make it visible again.  The solution showcases how to add functionality to reverse the hiding operation.
